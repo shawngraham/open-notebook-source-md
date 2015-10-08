@@ -1,5 +1,5 @@
 [[
-title: install to folder, webprefix
+title: install to folder webprefix
 tags: [setup]
 ]]
 

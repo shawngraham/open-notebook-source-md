@@ -23,5 +23,3 @@ Other places I am active:
 Contact me on [Twitter - Electricarchaeo](http://twitter.com/electricarchaeo)
 
 ![image](https://electricarchaeologist.files.wordpress.com/2015/10/drawing-1-e1444009494502.png?w=430)
-
-

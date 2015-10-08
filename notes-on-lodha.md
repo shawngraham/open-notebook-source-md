@@ -16,5 +16,3 @@ In conjunction with visualization of uncertainty, differences in values of isosu
 [Page 3](sk://lodha1997muse#3)
 
 > this page is just a test of my skim-notes-from-pdfs-script & url system to the pages in those pdfs. If you have my bib file - which is in the uploads folder - then you can also see which pages I was annotating.
-
-
