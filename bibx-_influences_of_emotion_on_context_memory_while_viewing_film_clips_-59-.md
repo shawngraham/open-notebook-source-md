@@ -1,6 +1,6 @@
 [[
 title: 45_bibx-_influences_of_emotion_on_context_memory_while_viewing_film_clips_-59-.md
-tags: [sense, cognition, bibliography]
+tags: [senses, cognition, bibliography]
 ]]
 
 **Influences of Emotion on Context Memory while Viewing Film Clips**

@@ -1,6 +1,6 @@
 [[
 title: 098_bibx-_the_use_of_sound_for_data_exploration_-112-.md
-tags: [sonficiation, bibliography]
+tags: [sonificiation, bibliography]
 ]]
 
 
