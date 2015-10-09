@@ -9,7 +9,7 @@ tags: [notebook]
 
 This is my Open DH Lab Notebook. I'm an associate professor of digital humanities at [Carleton University](http://carleton.ca/history).
 
-This page contains a reflection of my research notes & ephemera from my digital history and digital archaeological explorations. I update as I remember to do it. You can append rss in the address bar to get the feed. There's also an [API](http://pykwiki.nullism.com/api.html) which you may or may not find useful. And of course, all posts here are in the repo which you can [fork](http://github.com/shawngraham/shawngraham.github.io).  Materials in this notebook are [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US) unless otherwise noted. The impetus behind this is discussed on my [research blog](http://electricarchaeology.ca/2015/10/06/an-elegant-open-notebook/), where I intend to do more long-form stuff.
+This website, this open notebook, contains a reflection of my research notes & ephemera from my digital history and digital archaeological explorations. I update as I remember to do it. You can append rss in the address bar to get the feed. There's also an [API](http://pykwiki.nullism.com/api.html) which you may or may not find useful. And of course, all posts here are in the repo which you can [fork](http://github.com/shawngraham/shawngraham.github.io).  Materials in this notebook are [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US) unless otherwise noted. The impetus behind this is discussed on my [research blog](http://electricarchaeology.ca/2015/10/06/an-elegant-open-notebook/), where I intend to do more long-form stuff.
 
 Other places I am active:
 
