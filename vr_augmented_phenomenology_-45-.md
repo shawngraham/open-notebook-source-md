@@ -1,5 +1,5 @@
 [[
-title: 31_vr_augmented_phenomenology_-45-.md
+title: vr augmented phenomenology
 ]]
 
 eve p587

@@ -1,5 +1,5 @@
 [[
-title: 74_what_do_things_do_for_the_mind_-88-.md
+title: what do things do for the mind
 ]]
 
 p2 malafouris & renfrew
