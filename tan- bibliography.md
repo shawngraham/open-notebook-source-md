@@ -1,6 +1,6 @@
 [[
 title: bibliography from the Tan article on virtual heritage
-tags: [bibliography]
+tags: [bibliography, virtual heritage]
 ]]
 
 [[tan- virtual heritage reality and criticism]] [[ocular centrism of virtual heritage]]
