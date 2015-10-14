@@ -4,18 +4,11 @@ title: 06_speech-not-optimal_-16-.md
 
 P19:2
 
-+ Authors report that while speech as a design element is useful in certain
-circumstances \(and typically is used in a sped-up fashion, by folks with low
-vision, etc\) it fails in 'orientation, navigation, and manipulation tasks';
-difficult to modify without loss of information
++ Authors report that while speech as a design element is useful in certain circumstances (and typically is used in a sped-up fashion, by folks with low vision, etc) it fails in 'orientation, navigation, and manipulation tasks'; difficult to modify without loss of information
 
-+ Makes me think of Gleick, The Information, Claude Shannon, information
-theory, talking drums
++ SG: Makes me think of Gleick, The Information, Claude Shannon, information theory, talking drums
 
-  
-
-+ Is speech optimal for history apps? If video games / history best for
-'empathy' \(me, web-writing essay\), then sonification best for…?
++ SG: Is speech optimal for history apps? If video games / history best for 'empathy' (me, <http://epress.trincoll.edu/webwriting/chapter/graham/> web-writing essay), then sonification best for…?
 
   
 
@@ -47,7 +40,7 @@ theory, talking drums
 
  numpages = \{23\},
 
- url = \{http://doi.acm.org/10.1145/2543581.2543586\},
+ url = <http://doi.acm.org/10.1145/2543581.2543586\>
 
  doi = \{10.1145/2543581.2543586\},
 

@@ -4,13 +4,9 @@ title: 17_interactive-paradigm_-27-.md
 
 P19:11
 
-  
-
 + Information exists irregardless of the task, thus it must be obtained
 
 + 'Reflects the subjective actions of the user relative to the system'
-
-  
 
 + The authors report ways in which we obtain 'mutli-modal data', through
 
@@ -19,15 +15,11 @@ P19:11
   * Multimodal rechecking
   * Confirmation
 
-  
-
 -"Approaches in the interactive paradigm generally create a basic sound model and emphasize the ways in which users can interact with the model in order to produce various kinds of sounds"
 
   
 
 + This approach involves a discovery process.
-
-  
 
 ~~~~~\{.bib\}
 

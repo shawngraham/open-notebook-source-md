@@ -6,14 +6,9 @@ Pg19:11
 
   
 
-"The information concept at the heart of the conceptual paradigm views
-information as an entity that provides _an answer to a question_"
-
-  
+"The information concept at the heart of the conceptual paradigm views information as an entity that provides _an answer to a question_"  
 
 + Designers 'emphasize  the use case'
-
-  
 
 + Auditory choices tend to auditory icons, ear cons
 

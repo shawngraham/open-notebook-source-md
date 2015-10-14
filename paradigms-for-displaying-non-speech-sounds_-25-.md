@@ -6,19 +6,13 @@ P19:10-19:12
 
   
 
-+ The authors describe two competing paradigms that inform the design of non-
-speech sound, 'conceptual' and 'interactive'
-
-  
++ The authors describe two competing paradigms that inform the design of non-speech sound, 'conceptual' and 'interactive'
 
 -Tied to how the designers imagine what 'information' is, is for
 
-  
-
-+ These remind me rather of Jeremiah's thoughts on 'problem space' \[on play
++ SG: These remind me rather of Jeremiah's thoughts on 'problem space' \[on play
 the past\]\(<http://www.playthepast.org/?p=2594>\)
 
-  
 
 ~~~~~\{.bib\}
 
