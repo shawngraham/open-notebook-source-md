@@ -1,6 +1,6 @@
 [[
 title: 098_bibx-_the_use_of_sound_for_data_exploration_-112-.md
-tags: [sonificiation, bibliography]
+tags: [sonification, bibliography]
 ]]
 
 
@@ -22,7 +22,7 @@ PB  + Wiley Subscription Services, Inc., A Wiley Company
 
 SN  + 1550-8366
 
-UR  + [link(http://dx.doi.org/10.1002/bult.173)
+UR  + [link](http://dx.doi.org/10.1002/bult.173)
 
 DO  + 10.1002/bult.173
 

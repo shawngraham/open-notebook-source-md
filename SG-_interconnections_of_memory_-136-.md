@@ -1,6 +1,6 @@
 [[
 title: 122_SG-_interconnections_of_memory_-136-.md
-tags: [sg-idea, memory, neuroscience, ar, sound]
+tags: [sg, memory, neuroscience, ar, sound]
 ]]
 
 + if schiller  (neuroscientist ) is right about how memories are formed & rewritten  ("memory reconsolidation" ) cf

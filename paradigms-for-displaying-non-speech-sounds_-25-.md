@@ -1,5 +1,6 @@
 [[
 title: 15_paradigms-for-displaying-non-speech-sounds_-25-.md
+tags: [SG, sound]
 ]]
 
 P19:10-19:12

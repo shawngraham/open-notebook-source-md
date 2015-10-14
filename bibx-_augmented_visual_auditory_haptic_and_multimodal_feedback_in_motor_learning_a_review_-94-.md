@@ -1,6 +1,6 @@
 [[
-title: 080_bibx-_augmented_visual_auditory_haptic_and_multimodal_feedback_in_motor_learning;_a_review_-94-.md
-tags: [sonificiation, ar, cognition, bibliography]
+title: bibx-_augmented_visual_auditory_haptic_and_multimodal_feedback_in_motor_learning_a_review
+tags: [sonification, ar, cognition, bibliography]
 ]]
 
 nb in here the discussion of auditory feedback & sonification for motor memory

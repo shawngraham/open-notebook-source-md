@@ -3,7 +3,7 @@ title: Tan - "Virtual heritage Reality and criticism"
 ]]
 [TOC]
 
-# Tan, B.-K., and H. Rahaman. “Virtual Heritage: Reality and Criticism,” 2009. <http://scholarbank.nus.edu.sg/handle/10635/45499>
+Tan, B.-K., and H. Rahaman. “Virtual Heritage: Reality and Criticism,” 2009. <http://scholarbank.nus.edu.sg/handle/10635/45499>
 
 ## Problems with virtual heritage:
 ### lack of meaningful and cultural content

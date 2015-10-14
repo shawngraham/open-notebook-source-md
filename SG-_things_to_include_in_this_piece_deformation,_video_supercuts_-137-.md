@@ -1,5 +1,6 @@
 [[
 title: 123_SG-_things_to_include_in_this_piece_deformation,_video_supercuts_-137-.md
+tags: [sg, sound, deformation]
 ]]
 
 SG - theme of this piece is 'seeing' history: but need to see with new eyes, focus on other senses; computational juxtaposition of elements not normally seen/experience together

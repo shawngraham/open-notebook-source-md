@@ -1,5 +1,6 @@
 [[
 title: 104_does_touch_enhance_learning_-118-.md
+tags: [SG, touch, cognition]
 ]]
 
 minogue and jones p 317

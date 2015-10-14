@@ -1,5 +1,6 @@
 [[
 title: 26_other_things_to_add_to_senseshed_-40-.md
+tags: [SG, sensorium]
 ]]
 
 eve augmented phenomenology p 586

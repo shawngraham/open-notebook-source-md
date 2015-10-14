@@ -1,8 +1,9 @@
 [[
-title: Tan - "Virtual heritage Reality and criticism"
+title: Tan - Fixing Virtual Heritage
 tags: [virtual heritage]
 ]]
 
+### crosslinked notes
 [[tan- virtual heritage reality and criticism]][[tan - domains of virtual heritage]][[tan - how the user is lost]]
 
 p 152- Tan's suggestions, under 'approaching the problem' -> 'in virtual heritage projects, digitalized artifacts somehow need to trigger the user’s cognitive process while he is exploring the virtual environment,   

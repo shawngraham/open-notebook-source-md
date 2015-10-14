@@ -1,5 +1,6 @@
 [[
 title: 115_polyphonic_multi_tasking_-129-.md
+tags: [sound, cognition, emotion, SG]
 ]]
 
 Garvey p319

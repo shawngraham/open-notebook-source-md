@@ -1,5 +1,6 @@
 [[
 title: 06_speech-not-optimal_-16-.md
+tags: [sg, empathy, sonification]
 ]]
 
 P19:2

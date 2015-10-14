@@ -1,5 +1,6 @@
 [[
 title: 29_senseshed_and_vr_-43-.md
+tags: [sense, SG]
 ]]
 
 eve augmented phenomenology 586
