@@ -3,8 +3,8 @@ title: Sonification of John Adams' diaries
 tags: [sonification, topic modeling, method]
 ]]
 
-
-`from miditime.MIDITime import MIDITime
+<pre>
+from miditime.MIDITime import MIDITime
 from datetime import datetime
 
 #topic: local
@@ -70,4 +70,4 @@ mymidi.add_track(note_list)
 
 # Output the .mid file
 mymidi.save_midi()
-`
+</pre>
